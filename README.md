@@ -1,0 +1,2 @@
+# python_job_queue_study
+Pythonにおける様々なジョブキューについて学習するためのリポジトリ
